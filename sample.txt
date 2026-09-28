@@ -1,3 +1,0 @@
-Python is easy to learn.
-Python is used for data science.
-Python supports file handling.
